@@ -1,0 +1,10 @@
+iframe {
+  margin-bottom: -2rem;
+}
+.logo {
+  padding: 0 0.75rem;
+  background-color: #506ed1;
+  color: white !important;
+  font-weight: 400;
+  border-radius: 0.25rem;
+}
