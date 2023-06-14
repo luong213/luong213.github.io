@@ -2,9 +2,9 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Home Pages."
 ---
 # TABLE OF CONTENTS
-- [HTML]()
-- [JavaScript]()
-- [JQuery]()
+- [HTML]({% link TIL/HTML/README.md %})
+- [CSS]({% link TIL/CSS/README.md %})
+- [JavaScript]({% link TIL/JS/README.md %})
+- [JQuery]({% link TIL/JQ/README.md %})
