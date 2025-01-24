@@ -1,0 +1,147 @@
+{
+  "top_level": false,
+  "pace_interval_delay": 0,
+  "parallel_downloads": "6",
+  "extension_version": "6.6.1",
+  "cookie": false,
+  "transaction_labels": [
+    "Test"
+  ],
+  "name": "RECORD 01-23-25 6.57.16 PM",
+  "regex_include": "http://*/*, https://*/*",
+  "projectId": null,
+  "traffic": [
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010111.aspx?env_id=0001",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010111.aspx?env_id=0001",
+      "method": "POST",
+      "body": {
+        "BTN_LOGIN": "ログイン",
+        "LBL_LOGINID": "ログインID",
+        "LBL_NOTIFYPASSWD": "パスワードを忘れた場合は、パスワード通知へ",
+        "LBL_PASSWD": "パスワード",
+        "__EVENTARGUMENT": "",
+        "__EVENTTARGET": "",
+        "__EVENTVALIDATION": "/wEdABQomhNYufNHaspTMwKtEQQ+sXVWvoGdCZQltfFi8K5e5OQaBKEI8MRy6v5LcFBppnyEYHQPy0lfZpl7c3CFKFgGL1TH/S43FTvolTLoIT6C4efkv7yTBHR/nx9TlhcsCl4MoAbsmQiQVHm3quQ0Ef28YrQ8aToGPNVP6+6dKn4Jvz+k9ahah0Cy2x0Mg5CwbrJtJLd/83QDRxGH2I2U3akRYfLPWMydTiJVH1pBGjGTODpU9iS7LYAOhkrh1XpMyi6OORJFTzw6Ie4MGa2Z4VQJiuYqU5RjJCdSvq/BYcDkJpWhfvOK3K+ttsocOMapJsEGm3GWdQjFzxRoO3BqMpEq9pjd7vNrHimE0pljFT0i2SFjKNxZn7bmkRzSi6o4JwPZenlh9eVZgUYPvmyCq0/mJ3IlFvn3Hq4+L1izdToqBfT9bstJeLaSwuXe4WWaVUgdF0QP",
+        "__LASTFOCUS": "",
+        "__VIEWSTATE": "/wEPDwUKMTQ4MDQzNzcyMw8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgICAg9kFgYCAQ9kFhgCAQ8PFgIeB1Zpc2libGVoZGQCAw8PFgIfAWhkFgICAQ8PFgIeCEltYWdlVXJsBSF+L2ltYWdlcy9sb2dvL2ltYWdlX2xvZ29femVlbS5naWZkZAIFDw8WBB4JQmFja0NvbG9yDB4EXyFTQgIIZGQCCw8PFgYfAwwfBAIIHwFoZGQCDQ8PFgYfAwwfBAIIHwFoZGQCDw88KwANAQAPFgIfAWhkZAIWDzwrAA0BAA8WAh8BaGRkAhgPDxYCHwFoZGQCGg8PFgQfAwwfBAIIZGQCHg8WAh4FVmFsdWVlZAIiDw8WBB8DDB8EAghkZAImDxYCHwUFBDAwMDFkAgMPZBYOAgEPDxYCHwIFIX4vaW1hZ2VzL2xvZ28vaW1hZ2VfbG9nb196ZWVtLmdpZmRkAgYPDxYEHwMMHwQCCGRkAggPDxYGHwMMHgRUZXh0ZR8EAghkZAINDw8WBB8DDB8EAghkZAIPDw8WBB8DDB8EAghkZAITDw8WBB8GBQ/jg4bjgrnjg4hfVVdQMTgeC05hdmlnYXRlVXJsBSJodHRwOi8vd3d3LnRlc3RpbmdtY2FmZWVzaXRlcy5jb20vZGQCFQ8PFgYfBgU/44OR44K544Ov44O844OJ44KS5b+Y44KM44Gf5aC05ZCI44Gv44CB44OR44K544Ov44O844OJ6YCa55+l44G4HwMMHwQCCGRkAgUPZBYEAgEPDxYEHwMMHwQCCGRkAgUPZBYEAgUPFgIfBQUBMGQCCQ8PFgIfBgUBMWRkZI5J9fvdbqLgzjovO78ZllL8PC8B",
+        "__VIEWSTATEGENERATOR": "812945F7",
+        "commonfooter:CSVTEXTBOX": "",
+        "commonfooter:FocusMarker2": "",
+        "commonheader:Called": "",
+        "commonheader:EnvId_": "0001",
+        "commonheader:FocusMarker1": "",
+        "commonheader:FormId_": "",
+        "commonheader:OPERATION": "BTN_LOGIN",
+        "commonheader:TargetFileKey_": "",
+        "commonheader:TargetFile_": "",
+        "パスワード": "",
+        "ログインＩＤ": "0000000197"
+      },
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737688623344,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Content-Type",
+          "value": "application/x-www-form-urlencoded"
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    },
+
+
+
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010114.aspx?DM=0&env_id=0001",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010114.aspx?DM=0&env_id=0001",
+      "method": "GET",
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737688630429,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    }
+  ]
+}
