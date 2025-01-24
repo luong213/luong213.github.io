@@ -1,0 +1,337 @@
+{
+  "top_level": false,
+  "pace_interval_delay": 0,
+  "parallel_downloads": "6",
+  "extension_version": "6.6.1",
+  "cookie": false,
+  "transaction_labels": [
+    "Test"
+  ],
+  "name": "RECORD 01-23-25 6.57.16 PM",
+  "regex_include": "http://*/*, https://*/*",
+  "projectId": null,
+  "traffic": [
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010111.aspx?env_id=0001",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010111.aspx?env_id=0001",
+      "method": "POST",
+      "body": {
+        "BTN_LOGIN": "ログイン",
+        "LBL_LOGINID": "ログインID",
+        "LBL_PASSWD": "パスワード",
+        "__EVENTARGUMENT": "",
+        "__EVENTTARGET": "",
+        "__EVENTVALIDATION": "/wEdABJ7EvdESqH1MS/yPThPCNGQsXVWvoGdCZQltfFi8K5e5OQaBKEI8MRy6v5LcFBppnyEYHQPy0lfZpl7c3CFKFgGL1TH/S43FTvolTLoIT6C4efkv7yTBHR/nx9TlhcsCl4MoAbsmQiQVHm3quQ0Ef28YrQ8aToGPNVP6+6dKn4Jvz+k9ahah0Cy2x0Mg5CwbrJtJLd/83QDRxGH2I2U3akRYfLPWMydTiJVH1pBGjGTODpU9iS7LYAOhkrh1XpMyi6OORJFTzw6Ie4MGa2Z4VQJiuYqU5RjJCdSvq/BYcDkJpWhfvOK3K+ttsocOMapJsEGm3GWdQjFzxRoO3BqMpEq2Xp5YfXlWYFGD75sgqtP5idyJRb59x6uPi9Ys3U6KgUuoFlqqgUHu6SRv1dZeFyJMoHBRQ==",
+        "__LASTFOCUS": "",
+        "__VIEWSTATE": "/wEPDwUKMTQ4MDQzNzcyMw8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgICAg9kFgYCAQ9kFhgCAQ8PFgIeB1Zpc2libGVoZGQCAw8PFgIfAWhkFgICAQ8PFgIeCEltYWdlVXJsBSF+L2ltYWdlcy9sb2dvL2ltYWdlX2xvZ29femVlbS5naWZkZAIFDw8WBB4JQmFja0NvbG9yDB4EXyFTQgIIZGQCCw8PFgYfAwwfBAIIHwFoZGQCDQ8PFgYfAwwfBAIIHwFoZGQCDw88KwANAQAPFgIfAWhkZAIWDzwrAA0BAA8WAh8BaGRkAhgPDxYCHwFoZGQCGg8PFgQfAwwfBAIIZGQCHg8WAh4FVmFsdWVlZAIiDw8WBB8DDB8EAghkZAImDxYCHwUFBDAwMDFkAgMPZBYQAgEPDxYCHwIFIX4vaW1hZ2VzL2xvZ28vaW1hZ2VfbG9nb196ZWVtLmdpZmRkAgYPDxYEHwMMHwQCCGRkAggPDxYGHwMMHgRUZXh0ZR8EAghkZAINDw8WBB8DDB8EAghkZAIPDw8WBB8DDB8EAghkZAITDw8WBB8GBQ/jg4bjgrnjg4hfVVdQMTgeC05hdmlnYXRlVXJsBSJodHRwOi8vd3d3LnRlc3RpbmdtY2FmZWVzaXRlcy5jb20vZGQCFQ8PFggfBgU/44OR44K544Ov44O844OJ44KS5b+Y44KM44Gf5aC05ZCI44Gv44CB44OR44K544Ov44O844OJ6YCa55+l44G4HwMMHwQCCB8BaGRkAhcPDxYCHwFoZGQCBQ9kFgQCAQ8PFgQfAwwfBAIIZGQCBQ9kFgQCBQ8WAh8FBQEwZAIJDw8WAh8GBQExZGRk0WQDxKST+Uy0Ohv7Y6onj8JWxbY=",
+        "__VIEWSTATEGENERATOR": "812945F7",
+        "commonfooter:CSVTEXTBOX": "",
+        "commonfooter:FocusMarker2": "",
+        "commonheader:Called": "",
+        "commonheader:EnvId_": "0001",
+        "commonheader:FocusMarker1": "",
+        "commonheader:FormId_": "",
+        "commonheader:OPERATION": "BTN_LOGIN",
+        "commonheader:TargetFileKey_": "",
+        "commonheader:TargetFile_": "",
+        "パスワード": "s",
+        "ログインＩＤ": "0000000110"
+      },
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713604811,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Content-Type",
+          "value": "application/x-www-form-urlencoded"
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    },
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/CH/Web/CHWB0001/CHWB000111.aspx?DM=0&env_id=0001",
+      "url": "http://localhost/CREO.ZeeM.PR/CH/Web/CHWB0001/CHWB000111.aspx?DM=0&env_id=0001",
+      "method": "GET",
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713610665,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    },
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/CH/Web/CHWB0001/CHWB000111.aspx?DM=0&env_id=0001",
+      "url": "http://localhost/CREO.ZeeM.PR/CH/Web/CHWB0001/CHWB000111.aspx?DM=0&env_id=0001",
+      "method": "POST",
+      "body": {
+        "LBL帳票名": "帳票名",
+        "LBL行番号": "№",
+        "__EVENTARGUMENT": "",
+        "__EVENTTARGET": "DETAIL_RP$_ctl2$明細種類",
+        "__EVENTVALIDATION": "/wEdABfA9XeM8xDGpoBEmF8vImKzsXVWvoGdCZQltfFi8K5e5OQaBKEI8MRy6v5LcFBppnyEYHQPy0lfZpl7c3CFKFgGL1TH/S43FTvolTLoIT6C4efkv7yTBHR/nx9TlhcsCl4MoAbsmQiQVHm3quQ0Ef28YrQ8aToGPNVP6+6dKn4Jvz+k9ahah0Cy2x0Mg5CwbrJtJLd/83QDRxGH2I2U3akRYfLPWMydTiJVH1pBGjGTONl6eWH15VmBRg++bIKrT+YnciUW+fcerj4vWLN1OioFiPQLslWEgFgymBZ5AeCeVza1vOuvvuK/rYhdbbSjNJDex4hOosSqCZ/+89jnUR9ZSq3c3Y7w+aVWn26/59RhLcG56vwBfzh+ErWUVtFW6Ue9h1c7cMdycSPjiC0qCWd7/ILPNAJbVYJ6hs4PV+Fcg9//nd32hH3UZKcno5m88+sHzzuTFepkHIpzc2voM4CyPcBmfeDd+YavvYpwcamZ2HJ4VPdQltqOm8xEvMsD718WhL2U",
+        "__LASTFOCUS": "",
+        "__VIEWSTATE": "/wEPDwUJMTA0MTM3NjgwDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgEWAgIBD2QWBgIBD2QWEgIDD2QWAgIBDw8WAh4ISW1hZ2VVcmwFIX4vaW1hZ2VzL2xvZ28vaW1hZ2VfbG9nb196ZWVtLmdpZmRkAgUPDxYEHglCYWNrQ29sb3IMHgRfIVNCAghkZAIJDw8WAh4EVGV4dAUN5Lit5p2RIOS/iuS6jGRkAgsPDxYGHwIMHwQFLuWJjeWbnuODreOCsOOCpOODs+aXpeaZgu+8mjIwMjUvMDEvMjQgMTc6MTE6MTgfAwIIZGQCDQ8PFgYfAgwfBAUi44Ki44Oe44OOKOagqikg5p2x5Lqs5Za25qWt77yR5L+CIB8DAghkZAIaDw8WBB8CDB8DAghkZAIeDxYCHgVWYWx1ZWVkAiIPDxYEHwIMHwMCCGRkAiYPFgIfBQUEMDAwMWQCAw9kFgQCAQ8PFgQfAgwfAwIIZGQCBQ9kFgQCBQ8WAh8FBQEwZAIJDw8WAh8EBQExZGQCBQ9kFgICAQ9kFgYCAw8PFgIeB1Zpc2libGVnZGQCBg9kFgQCAQ8PFgQfAgwfAwIIZGQCAw8PFgQfAgwfAwIIZGQCCA9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBxYOAgEPZBYIZg8VAQN0cjBkAgEPFgIfBQUKS1lSUDAwMDUwMWQCAw8PFgIfBAUBMWRkAggPDxYCHwQFD+e1puS4juaYjue0sOabuGRkAgIPZBYIZg8VAQN0cjFkAgEPFgIfBQUKS1lSUDAwMDUwMmQCAw8PFgIfBAUBMmRkAggPDxYCHwQFD+iznuS4juaYjue0sOabuGRkAgMPZBYIZg8VAQN0cjBkAgEPFgIfBQUKS1lSUDAwMDUwM2QCAw8PFgIfBAUBM2RkAggPDxYCHwQFEuS4gOaZgumHkeaYjue0sOabuGRkAgQPZBYIZg8VAQN0cjFkAgEPFgIfBQUKS1lSUDAwMDUwNWQCAw8PFgIfBAUBNGRkAggPDxYCHwQFHuW5tOacq+iqv+aVtOmChOS7mOmHkeaYjue0sOabuGRkAgUPZBYIZg8VAQN0cjBkAgEPFgIfBQUKS1lSUDAwNjMwMWQCAw8PFgIfBAUBNWRkAggPDxYCHwQFD+aWsOizg+mHkemAmuefpWRkAgYPZBYIZg8VAQN0cjFkAgEPFgIfBQUKTkNSUDAwMDUwM2QCAw8PFgIfBAUBNmRkAggPDxYCHwQFD+a6kOazieW+tOWPjuelqGRkAgcPZBYIZg8VAQN0cjBkAgEPFgIfBQUKU0hSUDAwMDQwMmQCAw8PFgIfBAUBN2RkAggPDxYCHwQFLeS/nemZuuaWmeaxuuWumu+8j+aUueWumumAmuefpe+8iOWAi+S6uuWIpe+8iWRkZITXdk3k/gP8i/k39U2NecOlBrY3",
+        "__VIEWSTATEGENERATOR": "24B47646",
+        "commonfooter:CSVTEXTBOX": "",
+        "commonfooter:FocusMarker2": "",
+        "commonheader:Called": "",
+        "commonheader:EnvId_": "0001",
+        "commonheader:FocusMarker1": "",
+        "commonheader:FormId_": "",
+        "commonheader:OPERATION": "",
+        "commonheader:TargetFileKey_": "",
+        "commonheader:TargetFile_": ""
+      },
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713613569,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Content-Type",
+          "value": "application/x-www-form-urlencoded"
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    },
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5E74%u51AC%u5B63%u8CDE%u4E0E%u660E%u7D30%28%u652F%u7D66%u65E5%uFF1A2018/12/15%29&INP_URL_PRM=20181215/00000/0000000110/2018/02/21",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5E74%u51AC%u5B63%u8CDE%u4E0E%u660E%u7D30%28%u652F%u7D66%u65E5%uFF1A2018/12/15%29&INP_URL_PRM=20181215/00000/0000000110/2018/02/21",
+      "method": "GET",
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713616386,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    },
+    {
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5e74%u51ac%u5b63%u8cde%u4e0e%u660e%u7d30(%u652f%u7d66%u65e5%uff1a2018%2f12%2f15)&INP_URL_PRM=20181215%2f00000%2f0000000110%2f2018%2f02%2f21",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5e74%u51ac%u5b63%u8cde%u4e0e%u660e%u7d30(%u652f%u7d66%u65e5%uff1a2018%2f12%2f15)&INP_URL_PRM=20181215%2f00000%2f0000000110%2f2018%2f02%2f21",
+      "method": "POST",
+      "body": {
+        "VIEW_BTN": "帳票出力データ表示",
+        "__EVENTARGUMENT": "",
+        "__EVENTTARGET": "",
+        "__EVENTVALIDATION": "/wEdAA0YoW68c8d7tN0/reDMbiA75BoEoQjwxHLq/ktwUGmmfIRgdA/LSV9mmXtzcIUoWAYvVMf9LjcVO+iVMughPoLh5+S/vJMEdH+fH1OWFywKXgygBuyZCJBUebeq5DQR/bxitDxpOgY81U/r7p0qfgm/P6T1qFqHQLLbHQyDkLBusm0kt3/zdANHEYfYjZTdqRFh8s9YzJ1OIlUfWkEaMZM42Xp5YfXlWYFGD75sgqtP5idyJRb59x6uPi9Ys3U6KgVNMswapO2kFyUBY6sLGPFnsSRPo4sZp8+S0B3ATAvZdHKlAMs=",
+        "__LASTFOCUS": "",
+        "__VIEWSTATE": "/wEPDwUKLTYxNjY1ODk4NA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgRmDxYCHglpbm5lcmh0bWwFMTIwMTjlubTlhqzlraPos57kuI7mmI7ntLAo5pSv57Wm5pel77yaMjAxOC8xMi8xNSlkAgEPZBYMAgIPZBYSAgEPDxYCHgdWaXNpYmxlaGRkAgMPZBYCAgEPDxYCHghJbWFnZVVybAUhfi9pbWFnZXMvbG9nby9pbWFnZV9sb2dvX3plZW0uZ2lmZGQCBQ8PFgQeCUJhY2tDb2xvcgweBF8hU0ICCGRkAgkPDxYCHwJoZGQCCw8PFgYfBAweBFRleHRlHwUCCGRkAg0PDxYGHwQMHwZlHwUCCGRkAhoPDxYEHwQMHwUCCGRkAh4PFgIeBVZhbHVlZWQCIg8PFgQfBAwfBQIIZGQCBA9kFgQCAQ8PFgQfBAwfBQIIZGQCBQ9kFgQCBQ8WAh8HBQEwZAIJDw8WAh8GBQExZGQCBg8WAh8HBQpLWVJQMDAwNTAyZAIIDxYCHwcFMTIwMTjlubTlhqzlraPos57kuI7mmI7ntLAo5pSv57Wm5pel77yaMjAxOC8xMi8xNSlkAgoPFgIfBwUkMjAxODEyMTUvMDAwMDAvMDAwMDAwMDExMC8yMDE4LzAyLzIxZAIQDxYCHwcFHlJQVF9CSU5BUllfREFUQV8yMDI1MDEyNDE3MTMzNmRk4HV0mxlMeLMTLmL6QZM+PXveJsw=",
+        "__VIEWSTATEGENERATOR": "60918833",
+        "commonfooter:CSVTEXTBOX": "",
+        "commonfooter:FocusMarker2": "",
+        "commonheader:Called": "",
+        "commonheader:EnvId_": "",
+        "commonheader:FocusMarker1": "",
+        "commonheader:FormId_": "",
+        "commonheader:OPERATION": "VIEW_BTN",
+        "commonheader:TargetFileKey_": "",
+        "commonheader:TargetFile_": ""
+      },
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713617677,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Content-Type",
+          "value": "application/x-www-form-urlencoded"
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    }
+  ]
+}
