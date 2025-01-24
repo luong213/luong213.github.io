@@ -1,0 +1,51 @@
+{
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5E74%u51AC%u5B63%u8CDE%u4E0E%u660E%u7D30%28%u652F%u7D66%u65E5%uFF1A2018/12/15%29&INP_URL_PRM=20181215/00000/0000000110/2018/02/21",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5E74%u51AC%u5B63%u8CDE%u4E0E%u660E%u7D30%28%u652F%u7D66%u65E5%uFF1A2018/12/15%29&INP_URL_PRM=20181215/00000/0000000110/2018/02/21",
+      "method": "GET",
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713616386,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-User",
+          "value": "?1"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    },
