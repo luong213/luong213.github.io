@@ -1,0 +1,69 @@
+{
+      "label": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5e74%u51ac%u5b63%u8cde%u4e0e%u660e%u7d30(%u652f%u7d66%u65e5%uff1a2018%2f12%2f15)&INP_URL_PRM=20181215%2f00000%2f0000000110%2f2018%2f02%2f21",
+      "url": "http://localhost/CREO.ZeeM.PR/WP/Web/WPWB0101/WPWB010117.aspx?INP_RPT_ID=KYRP000502&INP_RPT_TTL=2018%u5e74%u51ac%u5b63%u8cde%u4e0e%u660e%u7d30(%u652f%u7d66%u65e5%uff1a2018%2f12%2f15)&INP_URL_PRM=20181215%2f00000%2f0000000110%2f2018%2f02%2f21",
+      "method": "POST",
+      "body": {
+        "VIEW_BTN": "帳票出力データ表示",
+        "__EVENTARGUMENT": "",
+        "__EVENTTARGET": "",
+        "__EVENTVALIDATION": "/wEdAA0YoW68c8d7tN0/reDMbiA75BoEoQjwxHLq/ktwUGmmfIRgdA/LSV9mmXtzcIUoWAYvVMf9LjcVO+iVMughPoLh5+S/vJMEdH+fH1OWFywKXgygBuyZCJBUebeq5DQR/bxitDxpOgY81U/r7p0qfgm/P6T1qFqHQLLbHQyDkLBusm0kt3/zdANHEYfYjZTdqRFh8s9YzJ1OIlUfWkEaMZM42Xp5YfXlWYFGD75sgqtP5idyJRb59x6uPi9Ys3U6KgVNMswapO2kFyUBY6sLGPFnsSRPo4sZp8+S0B3ATAvZdHKlAMs=",
+        "__LASTFOCUS": "",
+        "__VIEWSTATE": "/wEPDwUKLTYxNjY1ODk4NA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgRmDxYCHglpbm5lcmh0bWwFMTIwMTjlubTlhqzlraPos57kuI7mmI7ntLAo5pSv57Wm5pel77yaMjAxOC8xMi8xNSlkAgEPZBYMAgIPZBYSAgEPDxYCHgdWaXNpYmxlaGRkAgMPZBYCAgEPDxYCHghJbWFnZVVybAUhfi9pbWFnZXMvbG9nby9pbWFnZV9sb2dvX3plZW0uZ2lmZGQCBQ8PFgQeCUJhY2tDb2xvcgweBF8hU0ICCGRkAgkPDxYCHwJoZGQCCw8PFgYfBAweBFRleHRlHwUCCGRkAg0PDxYGHwQMHwZlHwUCCGRkAhoPDxYEHwQMHwUCCGRkAh4PFgIeBVZhbHVlZWQCIg8PFgQfBAwfBQIIZGQCBA9kFgQCAQ8PFgQfBAwfBQIIZGQCBQ9kFgQCBQ8WAh8HBQEwZAIJDw8WAh8GBQExZGQCBg8WAh8HBQpLWVJQMDAwNTAyZAIIDxYCHwcFMTIwMTjlubTlhqzlraPos57kuI7mmI7ntLAo5pSv57Wm5pel77yaMjAxOC8xMi8xNSlkAgoPFgIfBwUkMjAxODEyMTUvMDAwMDAvMDAwMDAwMDExMC8yMDE4LzAyLzIxZAIQDxYCHwcFHlJQVF9CSU5BUllfREFUQV8yMDI1MDEyNDE3MTMzNmRk4HV0mxlMeLMTLmL6QZM+PXveJsw=",
+        "__VIEWSTATEGENERATOR": "60918833",
+        "commonfooter:CSVTEXTBOX": "",
+        "commonfooter:FocusMarker2": "",
+        "commonheader:Called": "",
+        "commonheader:EnvId_": "",
+        "commonheader:FocusMarker1": "",
+        "commonheader:FormId_": "",
+        "commonheader:OPERATION": "VIEW_BTN",
+        "commonheader:TargetFileKey_": "",
+        "commonheader:TargetFile_": ""
+      },
+      "request_type": "top_level",
+      "request_subtype": "",
+      "timestamp": 1737713617677,
+      "transaction_key": 0,
+      "headers": [
+        {
+          "name": "sec-ch-ua",
+          "value": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\""
+        },
+        {
+          "name": "sec-ch-ua-mobile",
+          "value": "?0"
+        },
+        {
+          "name": "sec-ch-ua-platform",
+          "value": "\"Windows\""
+        },
+        {
+          "name": "Content-Type",
+          "value": "application/x-www-form-urlencoded"
+        },
+        {
+          "name": "Upgrade-Insecure-Requests",
+          "value": "1"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "Accept",
+          "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+        },
+        {
+          "name": "Sec-Fetch-Site",
+          "value": "same-origin"
+        },
+        {
+          "name": "Sec-Fetch-Mode",
+          "value": "navigate"
+        },
+        {
+          "name": "Sec-Fetch-Dest",
+          "value": "document"
+        }
+      ]
+    }
